@@ -55,7 +55,7 @@ include_graphics("img/build.jpg")
 
 <hr>
 
-### Final assingment due Friday, December 5
+### Final assignment due Friday, December 5
 
 
 
@@ -513,7 +513,7 @@ include_graphics("img/build.jpg")
 
 <hr>
 
-### Final assingment due Friday, December 5
+### Final assignment due Friday, December 5
 
 
 
