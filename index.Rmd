@@ -273,7 +273,23 @@ include_graphics("img/build.jpg")
 ```
 
 - Follow the [FSU template for dissertations](https://gradschool.fsu.edu/current-students/thesis-treatise-and-dissertation/templates-formatting-assistance) (for formatting, not for content or sections)
-- Use APA style (citations, formatting, voice, tense)
+
+
+---
+
+# `r fa("fas fa-star", fill = "#fff")` Follow APA Style
+
+```{r, out.width = "540px", echo = FALSE, fig.align = "center"}
+include_graphics("img/5-style.jpg")
+```
+
+Refer to [Purdue OWL](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_style_introduction.html) often:
+
+- Write in the **first person**: "In this study, **I** will..."
+- Use singular "**they**" (not "he" or "she") when referring to a cited author
+- Use **past tense**: they already said it; they are not necessarily still saying it
+- Use "**et al.**" any time you are citing 3 or more authors
+- Be careful with **capitalization** and **italics** in your reference list
 
 
 ---
@@ -384,6 +400,21 @@ Your lit review is where you dig deep into what is already known (like mining)
 
 ---
 
+# `r fa("fas fa-star", fill = "#fff")` Join Ongoing Conversations
+
+```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
+include_graphics("img/cocktail-party.jpg")
+```
+
+Your lit review is like a **cocktail party**:
+
+- There are already people talking in the literature
+- Your study is you joining in
+- The lit review shows that you're listening before speaking
+
+
+---
+
 # `r fa("fas fa-star", fill = "#fff")` Include Only What You Must
 
 ```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
@@ -409,6 +440,21 @@ include_graphics("img/filter.jpg")
 - Source: Peer-reviewed journal articles, **impact factor > 1** (see FSU Libraries' [Academic Publishing Guide](https://guides.lib.fsu.edu/academicpublishing/citationanalysis)
 
 **Methodological screening:** (Fink, 2020)
+
+
+---
+
+# `r fa("fas fa-star", fill = "#fff")` Verify References
+
+```{r, out.width = "540px", echo = FALSE, fig.align = "center"}
+include_graphics("img/unmask.jpg")
+```
+
+### Double check all references!
+
+- Confirm existence and accuracy
+- Ensure the point you're making with each citation matches findings from the cited article
+- Citing fictional references is a HUGE red flag for readers and publishers
 
 
 ---
